@@ -1,0 +1,28 @@
+name: janky
+favicon: null
+layout_spectrum: 0.740137497195974
+typography_spectrum: 0.3599177876021713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8245754730887711
+  lightness: 0.46251158439554274
+  saturation: 0.65970598324202
+  rhythmicContrast: 0.7994020944461226
+purpose: []
