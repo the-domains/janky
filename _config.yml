@@ -2,6 +2,7 @@ name: janky
 favicon: null
 layout_spectrum: 0.740137497195974
 typography_spectrum: 0.3599177876021713
+title: Janky
 cta:
   domain: null
   bucket: null
